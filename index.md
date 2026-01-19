@@ -11,6 +11,3 @@ This website seeks to make accessible (and extensible) our large collection of 2
 If there is a resource you know of that you think would be useful on this website, please drop us a line! (out.innis@utoronto.ca) 
 
 ![[Innis-College-DYP-2025-2048x1152.jpg]]
-
-
-
