@@ -11,3 +11,13 @@ This website seeks to make accessible (and extensible) our large collection of 2
 If there is a resource you know of that you think would be useful on this website, please drop us a line! (out.innis@utoronto.ca) 
 
 ![[Innis-College-DYP-2025-2048x1152.jpg]]
+
+Below are tests, to be deleted
+
+>[!Callout]
+>I'm curious how callout boxes are rendered
+
+>[!Callout]
+>I'm also curious how images embedded in callout boxes are handled
+>![[Innis-College-DYP-2025-2048x1152.jpg]]
+
