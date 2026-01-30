@@ -8,7 +8,8 @@ We are active on Instagram. [Follow us!](https://www.instagram.com/outatinnis)
 
 This website seeks to make accessible (and extensible) our large collection of 2SLGBTQ+ resources relevant to University of Toronto students. 
 
-> We invite you browse these resources at your convenience by using the website's sidebar, which sorts resources into three categories by their level of generality (Innis-specific, UofT, and beyond)
+>[!TIP]
+>We invite you browse these resources at your convenience by using the website's sidebar, which sorts resources into three categories by their level of generality (Innis-specific, UofT, and beyond)
 
 If there is a resource you know of that you think would be useful on this website, please drop us a line! (out.innis@utoronto.ca) 
 
