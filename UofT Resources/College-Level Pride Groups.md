@@ -1,10 +1,10 @@
 
-#### Innis College: Out at Innis
+## Innis College: Out at Innis
 
 That's us!
 
 
-#### New College: NewPRIDE
+## New College: NewPRIDE
 
 **Instagram**: [@newPRIDE](https://www.instagram.com/new.pride/) 
 **Discord**: [newPRIDE](https://discord.com/invite/f3tQ6aRpRd?fbclid=PAZXh0bgNhZW0CMTEAAaY98zTyeV4AgdNBmZDmgg5ySJ6FH9SajPSDSvN31_WdWHnoGkXVMA6NHnw_aem_XMjy-U4v5tmfSE8oQ9iuNQ) 
@@ -15,7 +15,7 @@ That's us!
 
 
 
-#### St. Michael’s College: PrideSMC 
+## St. Michael’s College: PrideSMC 
 
 **Status**: *Inactive!*
 **Email**: Could not be located 
@@ -23,7 +23,7 @@ That's us!
 
 
 
-#### Trinity College: Rainbow Trinity
+## Trinity College: Rainbow Trinity
 
 **Instagram**: [@rainbowtrinity](https://www.instagram.com/rainbowtrinity) 
 
@@ -36,7 +36,7 @@ That's us!
 **Linktree**: [here](https://linktr.ee/rainbowtrin?fbclid=PAZXh0bgNhZW0CMTEAAaaDMHkTJMwPjtAFz71xtpcpo03viCd63SqzRLNYeg4QPi1GlH1lCOhBs90_aem_LTYdpKPyff5MrlOum-T5nA)
 
 
-#### Victoria College: VicPride 
+## Victoria College: VicPride 
 
 **Email**: [vicu.pride@gmail.com](mailto:vicu.pride@gmail.com)
 **Instagram**: [@vicu.pride](https://www.instagram.com/vicu.pride/) 
@@ -45,7 +45,7 @@ That's us!
 **LinkTree**: [here](https://vicpride.wordpress.com/links/?fbclid=PAZXh0bgNhZW0CMTEAAaZ_gAIkkTLANvjOnp7S5ExDX_ga-QRuo6FSykRTK4p272gt0nfz46c376s_aem_JQG1ZVYVkXToBUkvJVN8Rg)
 
 
-#### Woodsworth College: Woodsworth Inclusive (WiNC)
+## Woodsworth College: Woodsworth Inclusive (WiNC)
 
 *Status*: Inactive!
 Latest Event: December 6, 2023 
